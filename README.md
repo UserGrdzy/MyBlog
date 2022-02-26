@@ -1,3 +1,3 @@
 # MyBlog
 FPGA_DDS_HDMI
-FPGA实现波形并进行HDMI显示
+FPGA实现规则波形产生并进行HDMI显示
