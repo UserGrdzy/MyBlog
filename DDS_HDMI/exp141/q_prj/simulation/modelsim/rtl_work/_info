@@ -1,0 +1,346 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ganre/Desktop/exp14/q_prj/simulation/modelsim
+vclk_gen
+Z1 !s110 1644817901
+!i10b 1
+!s100 KmdLXCkaVCg[e<l`MY88D2
+I<H;c8R_3Ge_S=]EAUE[zN3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1644037219
+8C:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen/clk_gen.v
+FC:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen/clk_gen.v
+Z3 L0 39
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1644817901.666000
+!s107 C:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen/clk_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen|C:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen/clk_gen.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/clk_gen -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vclk_gen_altpll
+R1
+!i10b 1
+!s100 hEo@VV_hX9:U>jQJHeLZ82
+I6<a^VZIz77LZ<:SRO^@DV3
+R2
+R0
+w1644665042
+8C:/Users/ganre/Desktop/exp14/q_prj/db/clk_gen_altpll.v
+FC:/Users/ganre/Desktop/exp14/q_prj/db/clk_gen_altpll.v
+L0 30
+R4
+r1
+!s85 0
+31
+!s108 1644817901.892000
+!s107 C:/Users/ganre/Desktop/exp14/q_prj/db/clk_gen_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/q_prj/db|C:/Users/ganre/Desktop/exp14/q_prj/db/clk_gen_altpll.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/ganre/Desktop/exp14/q_prj/db -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vddio_out
+R1
+!i10b 1
+!s100 ^KZ58ZWS=2mA116Q6[n190
+I_:jkl^]Xgi=kYDEbFAl0a1
+R2
+R0
+w1644665115
+8C:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out/ddio_out.v
+FC:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out/ddio_out.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1644817901.779000
+!s107 C:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out/ddio_out.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out|C:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out/ddio_out.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/ddio_out -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdds
+R1
+!i10b 1
+!s100 ANJmU>T@dF5no_R>00P2c3
+IdkLaMQBLa13MThEb[;aC]0
+R2
+R0
+w1627377153
+8C:/Users/ganre/Desktop/exp14/trl/dds.v
+FC:/Users/ganre/Desktop/exp14/trl/dds.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1644817901.211000
+!s107 C:/Users/ganre/Desktop/exp14/trl/dds.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/dds.v|
+!i113 0
+R5
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/ganre/Desktop/exp14/trl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vencode
+Z7 !s110 1644817900
+!i10b 1
+!s100 E2hGT8h?`Q_<7a^c4cG9?3
+IF[oEkjTXTVKY2OV_`Hf?n3
+R2
+R0
+Z8 w1640252100
+8C:/Users/ganre/Desktop/exp14/trl/encode.v
+FC:/Users/ganre/Desktop/exp14/trl/encode.v
+Z9 L0 21
+R4
+r1
+!s85 0
+31
+!s108 1644817900.880000
+!s107 C:/Users/ganre/Desktop/exp14/trl/encode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/encode.v|
+!i113 0
+R5
+R6
+vf_word_set
+R1
+!i10b 1
+!s100 D]9gIM9>@F><5GJ4KOH@K0
+I]A^M=0SaeR:=7njOESoTX3
+R2
+R0
+w1632640970
+8C:/Users/ganre/Desktop/exp14/trl/f_word_set.v
+FC:/Users/ganre/Desktop/exp14/trl/f_word_set.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1644817901.101000
+!s107 C:/Users/ganre/Desktop/exp14/trl/f_word_set.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/f_word_set.v|
+!i113 0
+R5
+R6
+vgrid_display
+R7
+!i10b 1
+!s100 e^>PIooZR9N_2hTS^0O5W3
+I[1izR3MmI<HfDVQ^^IgHR3
+R2
+R0
+w1644814559
+8C:/Users/ganre/Desktop/exp14/trl/grid_display.v
+FC:/Users/ganre/Desktop/exp14/trl/grid_display.v
+Z10 L0 29
+R4
+r1
+!s85 0
+31
+!s108 1644817900.277000
+!s107 C:/Users/ganre/Desktop/exp14/trl/grid_display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/grid_display.v|
+!i113 0
+R5
+R6
+vhdmi_ctrl
+R7
+!i10b 1
+!s100 [EXee>@^Q=L[AHA>0B?=41
+I>@MU2gjZnaGlhV[hd]a<m3
+R2
+R0
+R8
+8C:/Users/ganre/Desktop/exp14/trl/hdmi_ctrl.v
+FC:/Users/ganre/Desktop/exp14/trl/hdmi_ctrl.v
+R9
+R4
+r1
+!s85 0
+31
+!s108 1644817900.773000
+!s107 C:/Users/ganre/Desktop/exp14/trl/hdmi_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/hdmi_ctrl.v|
+!i113 0
+R5
+R6
+vkey_ctl
+R1
+!i10b 1
+!s100 RPURijiGoYk33X`LA8BfD3
+IfNQHN_nE5jnk@iN>gF>G^2
+R2
+R0
+w1627376427
+8C:/Users/ganre/Desktop/exp14/trl/key_ctl.v
+FC:/Users/ganre/Desktop/exp14/trl/key_ctl.v
+Z11 L0 20
+R4
+r1
+!s85 0
+31
+!s108 1644817901.437000
+!s107 C:/Users/ganre/Desktop/exp14/trl/key_ctl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/key_ctl.v|
+!i113 0
+R5
+R6
+vkey_filter
+R1
+!i10b 1
+!s100 fiDY8lOda@j2KV6jWg94C2
+IlNLMH`S9MbTQ8X8JMZd6j3
+R2
+R0
+w1626777527
+8C:/Users/ganre/Desktop/exp14/trl/key_filter.v
+FC:/Users/ganre/Desktop/exp14/trl/key_filter.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1644817901.326000
+!s107 C:/Users/ganre/Desktop/exp14/trl/key_filter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/key_filter.v|
+!i113 0
+R5
+R6
+vpar_to_ser
+R7
+!i10b 1
+!s100 5_oInI^^mU<TI8FRY@Pl`2
+IMe[zknn2kG>^ML[nJXUFG0
+R2
+R0
+R8
+8C:/Users/ganre/Desktop/exp14/trl/par_to_ser.v
+FC:/Users/ganre/Desktop/exp14/trl/par_to_ser.v
+R11
+R4
+r1
+!s85 0
+31
+!s108 1644817900.641000
+!s107 C:/Users/ganre/Desktop/exp14/trl/par_to_ser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/par_to_ser.v|
+!i113 0
+R5
+R6
+vrom_wave
+R1
+!i10b 1
+!s100 ClSP2zb9^]?QRT4Ai8=n;0
+IY[naHll`XhCJ6BAT=97c<2
+R2
+R0
+w1626934482
+8C:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave/rom_wave.v
+FC:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave/rom_wave.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1644817901.552000
+!s107 C:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave/rom_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave|C:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave/rom_wave.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/ganre/Desktop/exp14/q_prj/ip_core/rom_wave -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtiming_gen_xy
+R7
+!i10b 1
+!s100 =N`I7SLX6]cMjH;CLE5E10
+I@9>h`Qm44IkZ8PFK<ieaB2
+R2
+R0
+w1505365948
+8C:/Users/ganre/Desktop/exp14/trl/timing_gen_xy.v
+FC:/Users/ganre/Desktop/exp14/trl/timing_gen_xy.v
+R10
+R4
+r1
+!s85 0
+31
+!s108 1644817900.113000
+!s107 C:/Users/ganre/Desktop/exp14/trl/timing_gen_xy.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/timing_gen_xy.v|
+!i113 0
+R5
+R6
+vtop_dds
+R1
+!i10b 1
+!s100 CFmCa:UNzg0`lB`TkV[P33
+IoDF]@6g@Sza:zc3:1>7M[2
+R2
+R0
+w1644813546
+8C:/Users/ganre/Desktop/exp14/trl/top_dds.v
+FC:/Users/ganre/Desktop/exp14/trl/top_dds.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1644817900.987000
+!s107 C:/Users/ganre/Desktop/exp14/trl/top_dds.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/top_dds.v|
+!i113 0
+R5
+R6
+vvga_ctrl
+R7
+!i10b 1
+!s100 Lg^3P<^`;aF>gS8od0`642
+IRdc_<YW@UeF2Q2=ERiURW0
+R2
+R0
+w1644813547
+8C:/Users/ganre/Desktop/exp14/trl/vga_ctrl.v
+FC:/Users/ganre/Desktop/exp14/trl/vga_ctrl.v
+R11
+R4
+r1
+!s85 0
+31
+!s108 1644817900.493000
+!s107 C:/Users/ganre/Desktop/exp14/trl/vga_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/vga_ctrl.v|
+!i113 0
+R5
+R6
+vwav_display
+R7
+!i10b 1
+!s100 LAn]hkFl7lQ^lc`=cC[K43
+I4K@@GKD3jgm0l=oOek^BT0
+R2
+R0
+w1644814560
+8C:/Users/ganre/Desktop/exp14/trl/wav_display.v
+FC:/Users/ganre/Desktop/exp14/trl/wav_display.v
+R10
+R4
+r1
+!s85 0
+31
+!s108 1644817899.996000
+!s107 C:/Users/ganre/Desktop/exp14/trl/wav_display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ganre/Desktop/exp14/trl|C:/Users/ganre/Desktop/exp14/trl/wav_display.v|
+!i113 0
+R5
+R6

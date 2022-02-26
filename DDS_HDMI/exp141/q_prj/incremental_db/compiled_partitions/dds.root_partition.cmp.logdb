@@ -1,0 +1,6 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult0|mult_jgt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult1|mult_jgt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult1|mult_jgt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult0|mult_jgt:auto_generated|mac_out4,
+PORT_SWAPPING,PORT_SWAPPING_FINISHED,wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult1|mult_jgt:auto_generated|mac_mult3,

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="dds">
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|clk_gen:clk_gen_inst|altpll:altpll_component" CBX_FILE_NAME="clk_gen_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst0|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst3|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|dds:dds_inst|rom_wave:rom_wave_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_afa1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst0|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst1|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|wav_display:wav_display_m0|dds1:dds_inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ikm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult0" CBX_FILE_NAME="mult_jgt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst1|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst2|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|wav_display:wav_display_m0|dds1:dds_inst|lpm_mult:Mult1" CBX_FILE_NAME="mult_jgt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst2|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst3|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_dds|wav_display:wav_display_m0|dds1:dds_inst|rom_wave:rom_wave_inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_afa1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
